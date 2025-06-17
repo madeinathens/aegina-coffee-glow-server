@@ -8,5 +8,10 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "not dead"
+  ]
 }
