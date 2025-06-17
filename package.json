@@ -1,0 +1,11 @@
+{
+  "name": "aegina-coffee-glow-dynamic",
+  "version": "1.0.0",
+  "main": "dynamic_server.js",
+  "scripts": {
+    "start": "node dynamic_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
